@@ -1,0 +1,6 @@
+{
+    "name": "trivial_example_001/trivial_php_app",
+    "description": "Trivial php application",
+    "type": "project",
+    "require": {}
+}
