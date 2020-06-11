@@ -2,5 +2,21 @@
     "name": "trivial_example_001/trivial_php_app",
     "description": "Trivial php application",
     "type": "project",
-    "require": {}
+    "require": {},
+    "repositories": [
+		{
+                        "type" : "composer",
+                        "url" : "https://des-artefactos.scae.redsara.es/nexus/repository/composer-public/"
+                },
+                {
+                        "type" : "composer",
+                        "url" : "https://des-artefactos.scae.redsara.es/nexus/repository/composer-prueba/"
+                },
+                {
+                        "packagist.org": false
+                },
+        	{
+            		"phpmyadmin.net": false
+       		}
+    ]
 }
