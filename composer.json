@@ -17,6 +17,10 @@
                 },
         	{
             		"phpmyadmin.net": false
-       		}
+       		},
+		{
+                        "type" : "composer",
+                        "url" : "https://des-artefactos.scae.redsara.es/nexus/repository/trivial_example_001/"
+                }
     ]
 }
