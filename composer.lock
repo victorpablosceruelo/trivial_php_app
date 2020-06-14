@@ -1,0 +1,38 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "43cec2f8b89c7f3a47abc433d701508c",
+    "packages": [
+        {
+            "name": "trivial_example_001/trivial_php_bundle",
+            "version": "1.0.1-dev",
+            "dist": {
+                "type": "zip",
+                "url": "https://des-artefactos.scae.redsara.es/nexus/repository/trivial_example_001/trivial_example_001/trivial_php_bundle/1.0.1-dev/trivial_example_001-trivial_php_bundle-1.0.1-dev.zip",
+                "reference": "6e7504f46dd14bcda5e7dfb4be624b3bdce23bee",
+                "shasum": "6e7504f46dd14bcda5e7dfb4be624b3bdce23bee"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "trivial_php_bundle\\HelloWorld\\": "src/"
+                }
+            },
+            "description": "Trivial PHP bundle or package",
+            "time": "2020-06-14T16:54:01+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "trivial_example_001/trivial_php_bundle": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

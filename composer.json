@@ -1,0 +1,21 @@
+{
+    "name": "trivial_example_001/trivial_php_app",
+    "description": "Trivial php application",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+        "trivial_example_001/trivial_php_bundle": "1.0.1-dev"
+    },
+    "repositories": [
+                {
+                        "packagist.org": false
+                },
+        	{
+            		"phpmyadmin.net": false
+       		},
+		{
+                        "type" : "composer",
+                        "url" : "https://des-artefactos.scae.redsara.es/nexus/repository/trivial_example_001/"
+                }
+    ]
+}
