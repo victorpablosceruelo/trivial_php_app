@@ -1,5 +1,6 @@
 {
     "name": "trivial_example_001/trivial_php_app",
+    "version": "1.0.1-dev",
     "description": "Trivial php application",
     "type": "project",
     "minimum-stability": "dev",
