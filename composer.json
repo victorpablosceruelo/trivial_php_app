@@ -16,7 +16,11 @@
        		},
 		{
                         "type" : "composer",
-                        "url" : "https://des-artefactos.scae.redsara.es/nexus/repository/trivial_example_001/"
+                        "url" : "https://artefactos-ic.scae.redsara.es/nexus/repository/php-repo-packagist-org/"
+                },
+		{
+                        "type" : "composer",
+                        "url" : "https://artefactos-ic.scae.redsara.es/nexus/repository/trivial_example_001/"
                 }
     ]
 }
